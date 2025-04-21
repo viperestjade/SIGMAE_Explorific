@@ -1,0 +1,46 @@
+name: explorific
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.2
+
+flutter:
+  assets:
+    - assets/images/explorific.png
+    - assets/images/Logogreen.png
+    - assets/images/welcome.png
+    - assets/images/gps_access.png
+    - assets/images/title.png
+    - assets/images/trends.png
+    - assets/images/for_you.png
+    - assets/images/events.png
+    - assets/images/video_sample.png
+    - assets/images/facebook.png
+    - assets/images/google.png
+    
+  uses-material-design: true
+
+
+  #  - images/a_dot_ham.jpeg
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700

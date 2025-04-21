@@ -1,11 +1,16 @@
-# SIGMAE-CO.
+# explorific
 
-flutlab.io: (CODEBASE)
-https://flutlab.io/editor/7d720662-0a7b-42e8-8991-d3db107b851c
+A new Flutter project.
 
-(CANVA PRESENTATION)
-https://www.canva.com/design/DAGd1-qc9kw/C-0dirETAO0ecHq1MQPqcA/edit?utm_content=DAGd1-qc9kw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+## Getting Started
 
-(PROTOTYPE)
-https://www.figma.com/proto/UM8geiLVBJYwK2HFM6ShsP/Explorific?node-id=2-4411&t=Hn1QYmLpXGjeJCoN-1&starting-point-node-id=2%3A4411
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
